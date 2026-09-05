@@ -1,0 +1,34 @@
+# Secrets
+.env
+.env.*
+!.env.example
+server/.env
+server/.env.*
+!server/.env.example
+client/.env
+client/.env.*
+!client/.env.example
+
+# Dependencies
+node_modules/
+**/node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+**/dist/
+build/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

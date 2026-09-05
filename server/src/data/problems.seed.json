@@ -1,0 +1,3586 @@
+[
+  {
+    "sheetNumber": 1,
+    "name": "Reverse the array",
+    "topic": "Array",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 2,
+    "name": "Find the maximum and minimum element in an array",
+    "topic": "Array",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 3,
+    "name": "Find the \"Kth\" max and min element of an array",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 4,
+    "name": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 5,
+    "name": "Move all the negative elements to one side of the array",
+    "topic": "Array",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 6,
+    "name": "Find the Union and Intersection of the two sorted arrays.",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 7,
+    "name": "Write a program to cyclically rotate an array by one.",
+    "topic": "Array",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 8,
+    "name": "find Largest sum contiguous Subarray [V. IMP]",
+    "topic": "Array",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 9,
+    "name": "Minimise the maximum difference between heights [V.IMP]",
+    "topic": "Array",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 10,
+    "name": "Minimum no. of Jumps to reach end of an array",
+    "topic": "Array",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 11,
+    "name": "find duplicate in an array of N+1 Integers",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 12,
+    "name": "Merge 2 sorted arrays without using Extra space.",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 13,
+    "name": "Kadane's Algo [V.V.V.V.V IMP]",
+    "topic": "Array",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 14,
+    "name": "Merge Intervals",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 15,
+    "name": "Next Permutation",
+    "topic": "Array",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 16,
+    "name": "Count Inversion",
+    "topic": "Array",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 17,
+    "name": "Best time to buy and Sell stock",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 18,
+    "name": "find all pairs on integer array whose sum is equal to given number",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 19,
+    "name": "find common elements In 3 sorted arrays",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 20,
+    "name": "Rearrange the array in alternating positive and negative items with O(1) extra space",
+    "topic": "Array",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 21,
+    "name": "Find if there is any subarray with sum equal to 0",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 22,
+    "name": "Find factorial of a large number",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 23,
+    "name": "find maximum product subarray",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 24,
+    "name": "Find longest coinsecutive subsequence",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 25,
+    "name": "Given an array of size n and a number k, fin all elements that appear more than \" n/k \" times.",
+    "topic": "Array",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 26,
+    "name": "Maximum profit by buying and selling a share atmost twice",
+    "topic": "Array",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 27,
+    "name": "Find whether an array is a subset of another array",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 28,
+    "name": "Find the triplet that sum to a given value",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 29,
+    "name": "Trapping Rain water problem",
+    "topic": "Array",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 30,
+    "name": "Chocolate Distribution problem",
+    "topic": "Array",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 31,
+    "name": "Smallest Subarray with sum greater than a given value",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 32,
+    "name": "Three way partitioning of an array around a given value",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 33,
+    "name": "Minimum swaps required bring elements less equal K together",
+    "topic": "Array",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 34,
+    "name": "Minimum no. of operations required to make an array palindrome",
+    "topic": "Array",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 35,
+    "name": "Median of 2 sorted arrays of equal size",
+    "topic": "Array",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 36,
+    "name": "Median of 2 sorted arrays of different size",
+    "topic": "Array",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 37,
+    "name": "Spiral traversal on a Matrix",
+    "topic": "Matrix",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 38,
+    "name": "Search an element in a matriix",
+    "topic": "Matrix",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 39,
+    "name": "Find median in a row wise sorted matrix",
+    "topic": "Matrix",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 40,
+    "name": "Find row with maximum no. of 1's",
+    "topic": "Matrix",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 41,
+    "name": "Print elements in sorted order using row-column wise sorted matrix",
+    "topic": "Matrix",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 42,
+    "name": "Maximum size rectangle",
+    "topic": "Matrix",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 43,
+    "name": "Find a specific pair in matrix",
+    "topic": "Matrix",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 44,
+    "name": "Rotate matrix by 90 degrees",
+    "topic": "Matrix",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 45,
+    "name": "Kth smallest element in a row-cpumn wise sorted matrix",
+    "topic": "Matrix",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 46,
+    "name": "Common elements in all rows of a given matrix",
+    "topic": "Matrix",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 47,
+    "name": "Reverse a String",
+    "topic": "String",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 48,
+    "name": "Check whether a String is Palindrome or not",
+    "topic": "String",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 49,
+    "name": "Find Duplicate characters in a string",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 50,
+    "name": "Why strings are immutable in Java?",
+    "topic": "String",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 51,
+    "name": "Write a Code to check whether one string is a rotation of another",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 52,
+    "name": "Write a Program to check whether a string is a valid shuffle of two strings or not",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 53,
+    "name": "Count and Say problem",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 54,
+    "name": "Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 55,
+    "name": "Find Longest Recurring Subsequence in String",
+    "topic": "String",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 56,
+    "name": "Print all Subsequences of a string.",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 57,
+    "name": "Print all the permutations of the given string",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 58,
+    "name": "Split the Binary string into two substring with equal 0's and 1's",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 59,
+    "name": "Word Wrap Problem [VERY IMP].",
+    "topic": "String",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 60,
+    "name": "EDIT Distance [Very Imp]",
+    "topic": "String",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 61,
+    "name": "Find next greater number with same set of digits. [Very Very IMP]",
+    "topic": "String",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 62,
+    "name": "Balanced Parenthesis problem.[Imp]",
+    "topic": "String",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 63,
+    "name": "Word break Problem[ Very Imp]",
+    "topic": "String",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 64,
+    "name": "Rabin Karp Algo",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 65,
+    "name": "KMP Algo",
+    "topic": "String",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 66,
+    "name": "Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 67,
+    "name": "Minimum number of bracket reversals needed to make an expression balanced.",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 68,
+    "name": "Count All Palindromic Subsequence in a given String.",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 69,
+    "name": "Count of number of given string in 2D character array",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 70,
+    "name": "Search a Word in a 2D Grid of characters.",
+    "topic": "String",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 71,
+    "name": "Boyer Moore Algorithm for Pattern Searching.",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 72,
+    "name": "Converting Roman Numerals to Decimal",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 73,
+    "name": "Longest Common Prefix",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 74,
+    "name": "Number of flips to make binary string alternate",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 75,
+    "name": "Find the first repeated word in string.",
+    "topic": "String",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 76,
+    "name": "Minimum number of swaps for bracket balancing.",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 77,
+    "name": "Find the longest common subsequence between two strings.",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 78,
+    "name": "Program to generate all possible valid IP addresses from given string.",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 79,
+    "name": "Write a program tofind the smallest window that contains all characters of string itself.",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 80,
+    "name": "Rearrange characters in a string such that no two adjacent are same",
+    "topic": "String",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 81,
+    "name": "Minimum characters to be added at front to make string palindrome",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 82,
+    "name": "Given a sequence of words, print all anagrams together",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 83,
+    "name": "Find the smallest window in a string containing all characters of another string",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 84,
+    "name": "Recursively remove all adjacent duplicates",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 85,
+    "name": "String matching where one string contains wildcard characters",
+    "topic": "String",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 86,
+    "name": "Function to find Number of customers who could not get a computer",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 87,
+    "name": "Transform One String to Another using Minimum Number of Given Operation",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 88,
+    "name": "Check if two given strings are isomorphic to each other",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 89,
+    "name": "Recursively print all sentences that can be formed from list of word lists",
+    "topic": "String",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 90,
+    "name": "Find first and last positions of an element in a sorted array",
+    "topic": "Searching & Sorting",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 91,
+    "name": "Find a Fixed Point (Value equal to index) in a given array",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 92,
+    "name": "Search in a rotated sorted array",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 93,
+    "name": "square root of an integer",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 94,
+    "name": "Maximum and minimum of an array using minimum number of comparisons",
+    "topic": "Searching & Sorting",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 95,
+    "name": "Optimum location of point to minimize total distance",
+    "topic": "Searching & Sorting",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 96,
+    "name": "Find the repeating and the missing",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 97,
+    "name": "find majority element",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 98,
+    "name": "Searching in an array where adjacent differ by at most k",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 99,
+    "name": "find a pair with a given difference",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 100,
+    "name": "find four elements that sum to a given value",
+    "topic": "Searching & Sorting",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 101,
+    "name": "maximum sum such that no 2 elements are adjacent",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 102,
+    "name": "Count triplet with sum smaller than a given value",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 103,
+    "name": "merge 2 sorted arrays",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 104,
+    "name": "print all subarrays with 0 sum",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 105,
+    "name": "Product array Puzzle",
+    "topic": "Searching & Sorting",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 106,
+    "name": "Sort array according to count of set bits",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 107,
+    "name": "minimum no. of swaps required to sort the array",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 108,
+    "name": "Bishu and Soldiers",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 109,
+    "name": "Rasta and Kheshtak",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 110,
+    "name": "Kth smallest number again",
+    "topic": "Searching & Sorting",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 111,
+    "name": "Find pivot element in a sorted array",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 112,
+    "name": "K-th Element of Two Sorted Arrays",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 113,
+    "name": "Aggressive cows",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 114,
+    "name": "Book Allocation Problem",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 115,
+    "name": "EKOSPOJ:",
+    "topic": "Searching & Sorting",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 116,
+    "name": "Job Scheduling Algo",
+    "topic": "Searching & Sorting",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 117,
+    "name": "Missing Number in AP",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 118,
+    "name": "Smallest number with atleastn trailing zeroes infactorial",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 119,
+    "name": "Painters Partition Problem:",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 120,
+    "name": "ROTI-Prata SPOJ",
+    "topic": "Searching & Sorting",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 121,
+    "name": "DoubleHelix SPOJ",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 122,
+    "name": "Subset Sums",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 123,
+    "name": "Findthe inversion count",
+    "topic": "Searching & Sorting",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 124,
+    "name": "Implement Merge-sort in-place",
+    "topic": "Searching & Sorting",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 125,
+    "name": "Partitioning and Sorting Arrays with Many Repeated Entries",
+    "topic": "Searching & Sorting",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 126,
+    "name": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+    "topic": "LinkedList",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 127,
+    "name": "Reverse a Linked List in group of Given Size. [Very Imp]",
+    "topic": "LinkedList",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 128,
+    "name": "Write a program to Detect loop in a linked list.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 129,
+    "name": "Write a program to Delete loop in a linked list.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 130,
+    "name": "Find the starting point of the loop.",
+    "topic": "LinkedList",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 131,
+    "name": "Remove Duplicates in a sorted Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 132,
+    "name": "Remove Duplicates in a Un-sorted Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 133,
+    "name": "Write a Program to Move the last element to Front in a Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 134,
+    "name": "Add \"1\" to a number represented as a Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 135,
+    "name": "Add two numbers represented by linked lists.",
+    "topic": "LinkedList",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 136,
+    "name": "Intersection of two Sorted Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 137,
+    "name": "Intersection Point of two Linked Lists.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 138,
+    "name": "Merge Sort For Linked lists.[Very Important]",
+    "topic": "LinkedList",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 139,
+    "name": "Quicksort for Linked Lists.[Very Important]",
+    "topic": "LinkedList",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 140,
+    "name": "Find the middle Element of a linked list.",
+    "topic": "LinkedList",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 141,
+    "name": "Check if a linked list is a circular linked list.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 142,
+    "name": "Split a Circular linked list into two halves.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 143,
+    "name": "Write a Program to check whether the Singly Linked list is a palindrome or not.",
+    "topic": "LinkedList",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 144,
+    "name": "Deletion from a Circular Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 145,
+    "name": "Reverse a Doubly Linked list.",
+    "topic": "LinkedList",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 146,
+    "name": "Find pairs with a given sum in a DLL.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 147,
+    "name": "Count triplets in a sorted DLL whose sum is equal to given value \"X\".",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 148,
+    "name": "Sort a \"k\"sorted Doubly Linked list.[Very IMP]",
+    "topic": "LinkedList",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 149,
+    "name": "Rotate DoublyLinked list by N nodes.",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 150,
+    "name": "Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
+    "topic": "LinkedList",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 151,
+    "name": "Can we reverse a linked list in less than O(n) ?",
+    "topic": "LinkedList",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 152,
+    "name": "Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 153,
+    "name": "Flatten a Linked List",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 154,
+    "name": "Sort a LL of 0's, 1's and 2's",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 155,
+    "name": "Clone a linked list with next and random pointer",
+    "topic": "LinkedList",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 156,
+    "name": "Merge K sorted Linked list",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 157,
+    "name": "Multiply 2 no. represented by LL",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 158,
+    "name": "Delete nodes which have a greater value on right side",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 159,
+    "name": "Segregate even and odd nodes in a Linked List",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 160,
+    "name": "Program for n'th node from the end of a Linked List",
+    "topic": "LinkedList",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 161,
+    "name": "Find the first non-repeating character from a stream of characters",
+    "topic": "LinkedList",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 162,
+    "name": "level order traversal",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 163,
+    "name": "Reverse Level Order traversal",
+    "topic": "Binary Trees",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 164,
+    "name": "Height of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 165,
+    "name": "Diameter of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 166,
+    "name": "Mirror of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 167,
+    "name": "Inorder Traversal of a tree both using recursion and Iteration",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 168,
+    "name": "Preorder Traversal of a tree both using recursion and Iteration",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 169,
+    "name": "Postorder Traversal of a tree both using recursion and Iteration",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 170,
+    "name": "Left View of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 171,
+    "name": "Right View of Tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 172,
+    "name": "Top View of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 173,
+    "name": "Bottom View of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 174,
+    "name": "Zig-Zag traversal of a binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 175,
+    "name": "Check if a tree is balanced or not",
+    "topic": "Binary Trees",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 176,
+    "name": "Diagnol Traversal of a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 177,
+    "name": "Boundary traversal of a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 178,
+    "name": "Construct Binary Tree from String with Bracket Representation",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 179,
+    "name": "Convert Binary tree into Doubly Linked List",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 180,
+    "name": "Convert Binary tree into Sum tree",
+    "topic": "Binary Trees",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 181,
+    "name": "Construct Binary tree from Inorder and preorder traversal",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 182,
+    "name": "Find minimum swaps required to convert a Binary tree into BST",
+    "topic": "Binary Trees",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 183,
+    "name": "Check if Binary tree is Sum tree or not",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 184,
+    "name": "Check if all leaf nodes are at same level or not",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 185,
+    "name": "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+    "topic": "Binary Trees",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 186,
+    "name": "Check if 2 trees are mirror or not",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 187,
+    "name": "Sum of Nodes on the Longest path from root to leaf node",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 188,
+    "name": "Check if given graph is tree or not. [ IMP ]",
+    "topic": "Binary Trees",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 189,
+    "name": "Find Largest subtree sum in a tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 190,
+    "name": "Maximum Sum of nodes in Binary tree such that no two are adjacent",
+    "topic": "Binary Trees",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 191,
+    "name": "Print all \"K\" Sum paths in a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 192,
+    "name": "Find LCA in a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 193,
+    "name": "Find distance between 2 nodes in a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 194,
+    "name": "Kth Ancestor of node in a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 195,
+    "name": "Find all Duplicate subtrees in a Binary tree [ IMP ]",
+    "topic": "Binary Trees",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 196,
+    "name": "Tree Isomorphism Problem",
+    "topic": "Binary Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 197,
+    "name": "Fina a value in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 198,
+    "name": "Deletion of a node in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 199,
+    "name": "Find min and max value in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 200,
+    "name": "Find inorder successor and inorder predecessor in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 201,
+    "name": "Check if a tree is a BST or not",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 202,
+    "name": "Populate Inorder successor of all nodes",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 203,
+    "name": "Find LCA of 2 nodes in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 204,
+    "name": "Construct BST from preorder traversal",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 205,
+    "name": "Convert Binary tree into BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 206,
+    "name": "Convert a normal BST into a Balanced BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 207,
+    "name": "Merge two BST [ V.V.V>IMP ]",
+    "topic": "Binary Search Trees",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 208,
+    "name": "Find Kth largest element in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 209,
+    "name": "Find Kth smallest element in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 210,
+    "name": "Count pairs from 2 BST whose sum is equal to given value \"X\"",
+    "topic": "Binary Search Trees",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 211,
+    "name": "Find the median of BST in O(n) time and O(1) space",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 212,
+    "name": "Count BST ndoes that lie in a given range",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 213,
+    "name": "Replace every element with the least greater element on its right",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 214,
+    "name": "Given \"n\" appointments, find the conflicting appointments",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 215,
+    "name": "Check preorder is valid or not",
+    "topic": "Binary Search Trees",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 216,
+    "name": "Check whether BST contains Dead end",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 217,
+    "name": "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+    "topic": "Binary Search Trees",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 218,
+    "name": "Flatten BST to sorted list",
+    "topic": "Binary Search Trees",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 219,
+    "name": "Activity Selection Problem",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 220,
+    "name": "Job SequencingProblem",
+    "topic": "Greedy",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 221,
+    "name": "Huffman Coding",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 222,
+    "name": "Water Connection Problem",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 223,
+    "name": "Fractional Knapsack Problem",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 224,
+    "name": "Greedy Algorithm to find Minimum number of Coins",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 225,
+    "name": "Maximum trains for which stoppage can be provided",
+    "topic": "Greedy",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 226,
+    "name": "Minimum Platforms Problem",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 227,
+    "name": "Buy Maximum Stocks if i stocks can be bought on i-th day",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 228,
+    "name": "Find the minimum and maximum amount to buy all N candies",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 229,
+    "name": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 230,
+    "name": "Minimum Cost to cut a board into squares",
+    "topic": "Greedy",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 231,
+    "name": "Check if it is possible to survive on Island",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 232,
+    "name": "Find maximum meetings in one room",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 233,
+    "name": "Maximum product subset of an array",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 234,
+    "name": "Maximize array sum after K negations",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 235,
+    "name": "Maximize the sum of arr[i]*i",
+    "topic": "Greedy",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 236,
+    "name": "Maximum sum of absolute difference of an array",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 237,
+    "name": "Maximize sum of consecutive differences in a circular array",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 238,
+    "name": "Minimum sum of absolute difference of pairs of two arrays",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 239,
+    "name": "Program for Shortest Job First (or SJF) CPU Scheduling",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 240,
+    "name": "Program for Least Recently Used (LRU) Page Replacement algorithm",
+    "topic": "Greedy",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 241,
+    "name": "Smallest subset with sum greater than all other elements",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 242,
+    "name": "Chocolate Distribution Problem",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 243,
+    "name": "DEFKIN -Defense of a Kingdom",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 244,
+    "name": "DIEHARD -DIE HARD",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 245,
+    "name": "GERGOVIA -Wine trading in Gergovia",
+    "topic": "Greedy",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 246,
+    "name": "Picking Up Chicks",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 247,
+    "name": "CHOCOLA -Chocolate",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 248,
+    "name": "ARRANGE -Arranging Amplifiers",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 249,
+    "name": "K Centers Problem",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 250,
+    "name": "Minimum Cost of ropes",
+    "topic": "Greedy",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 251,
+    "name": "Find smallest number with given number of digits and sum of digits",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 252,
+    "name": "Rearrange characters in a string such that no two adjacent are same",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 253,
+    "name": "Find maximum sum possible equal sum of three stacks",
+    "topic": "Greedy",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 254,
+    "name": "Rat in a maze Problem",
+    "topic": "BackTracking",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 255,
+    "name": "Printing all solutions in N-Queen Problem",
+    "topic": "BackTracking",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 256,
+    "name": "Word Break Problem using Backtracking",
+    "topic": "BackTracking",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 257,
+    "name": "Remove Invalid Parentheses",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 258,
+    "name": "Sudoku Solver",
+    "topic": "BackTracking",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 259,
+    "name": "m Coloring Problem",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 260,
+    "name": "Print all palindromic partitions of a string",
+    "topic": "BackTracking",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 261,
+    "name": "Subset Sum Problem",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 262,
+    "name": "The Knight's tour problem",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 263,
+    "name": "Tug of War",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 264,
+    "name": "Find shortest safe route in a path with landmines",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 265,
+    "name": "Combinational Sum",
+    "topic": "BackTracking",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 266,
+    "name": "Find Maximum number possible by doing at-most K swaps",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 267,
+    "name": "Print all permutations of a string",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 268,
+    "name": "Find if there is a path of more than k length from a source",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 269,
+    "name": "Longest Possible Route in a Matrix with Hurdles",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 270,
+    "name": "Print all possible paths from top left to bottom right of a mXn matrix",
+    "topic": "BackTracking",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 271,
+    "name": "Partition of a set intoK subsets with equal sum",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 272,
+    "name": "Find the K-th Permutation Sequence of first N natural numbers",
+    "topic": "BackTracking",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 273,
+    "name": "Implement Stack from Scratch",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 274,
+    "name": "Implement Queue from Scratch",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 275,
+    "name": "Implement 2 stack in an array",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 276,
+    "name": "find the middle element of a stack",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 277,
+    "name": "Implement \"N\" stacks in an Array",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 278,
+    "name": "Check the expression has valid or Balanced parenthesis or not.",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 279,
+    "name": "Reverse a String using Stack",
+    "topic": "Stacks & Queues",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 280,
+    "name": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+    "topic": "Stacks & Queues",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 281,
+    "name": "Find the next Greater element",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 282,
+    "name": "The celebrity Problem",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 283,
+    "name": "Arithmetic Expression evaluation",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 284,
+    "name": "Evaluation of Postfix expression",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 285,
+    "name": "Implement a method to insert an element at its bottom without using any other data structure.",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 286,
+    "name": "Reverse a stack using recursion",
+    "topic": "Stacks & Queues",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 287,
+    "name": "Sort a Stack using recursion",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 288,
+    "name": "Merge Overlapping Intervals",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 289,
+    "name": "Largest rectangular Area in Histogram",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 290,
+    "name": "Length of the Longest Valid Substring",
+    "topic": "Stacks & Queues",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 291,
+    "name": "Expression contains redundant bracket or not",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 292,
+    "name": "Implement Stack using Queue",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 293,
+    "name": "Implement Stack using Deque",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 294,
+    "name": "Stack Permutations (Check if an array is stack permutation of other)",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 295,
+    "name": "Implement Queue using Stack",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 296,
+    "name": "Implement \"n\" queue in an array",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 297,
+    "name": "Implement a Circular queue",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 298,
+    "name": "LRU Cache Implementationa",
+    "topic": "Stacks & Queues",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 299,
+    "name": "Reverse a Queue using recursion",
+    "topic": "Stacks & Queues",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 300,
+    "name": "Reverse the first \"K\" elements of a queue",
+    "topic": "Stacks & Queues",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 301,
+    "name": "Interleave the first half of the queue with second half",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 302,
+    "name": "Find the first circular tour that visits all Petrol Pumps",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 303,
+    "name": "Minimum time required to rot all oranges",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 304,
+    "name": "Distance of nearest cell having 1 in a binary matrix",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 305,
+    "name": "First negative integer in every window of size \"k\"",
+    "topic": "Stacks & Queues",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 306,
+    "name": "Check if all levels of two trees are anagrams or not.",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 307,
+    "name": "Sum of minimum and maximum elements of all subarrays of size \"k\".",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 308,
+    "name": "Minimum sum of squares of character counts in a given string after removing \"k\" characters.",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 309,
+    "name": "Queue based approach or first non-repeating character in a stream.",
+    "topic": "Stacks & Queues",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 310,
+    "name": "Next Smaller Element",
+    "topic": "Stacks & Queues",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 311,
+    "name": "Implement a Maxheap/MinHeap using arrays and recursion.",
+    "topic": "Heap",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 312,
+    "name": "Sort an Array using heap. (HeapSort)",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 313,
+    "name": "Maximum of all subarrays of size k.",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 314,
+    "name": "\"k\" largest element in an array",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 315,
+    "name": "Kth smallest and largest element in an unsorted array",
+    "topic": "Heap",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 316,
+    "name": "Merge \"K\" sorted arrays. [ IMP ]",
+    "topic": "Heap",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 317,
+    "name": "Merge 2 Binary Max Heaps",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 318,
+    "name": "Kth largest sum continuous subarrays",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 319,
+    "name": "Leetcode- reorganize strings",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 320,
+    "name": "Merge \"K\" Sorted Linked Lists [V.IMP]",
+    "topic": "Heap",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 321,
+    "name": "Smallest range in \"K\" Lists",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 322,
+    "name": "Median in a stream of Integers",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 323,
+    "name": "Check if a Binary Tree is Heap",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 324,
+    "name": "Connect \"n\" ropes with minimum cost",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 325,
+    "name": "Convert BST to Min Heap",
+    "topic": "Heap",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 326,
+    "name": "Convert min heap to max heap",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 327,
+    "name": "Rearrange characters in a string such that no two adjacent are same.",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 328,
+    "name": "Minimum sum of two numbers formed from digits of an array",
+    "topic": "Heap",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 329,
+    "name": "Create a Graph, print it",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 330,
+    "name": "Implement BFS algorithm",
+    "topic": "Graph",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 331,
+    "name": "Implement DFS Algo",
+    "topic": "Graph",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 332,
+    "name": "Detect Cycle in Directed Graph using BFS/DFS Algo",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 333,
+    "name": "Detect Cycle in UnDirected Graph using BFS/DFS Algo",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 334,
+    "name": "Search in a Maze",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 335,
+    "name": "Minimum Step by Knight",
+    "topic": "Graph",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 336,
+    "name": "flood fill algo",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 337,
+    "name": "Clone a graph",
+    "topic": "Graph",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 338,
+    "name": "Making wired Connections",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 339,
+    "name": "word Ladder",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 340,
+    "name": "Dijkstra algo",
+    "topic": "Graph",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 341,
+    "name": "Implement Topological Sort",
+    "topic": "Graph",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 342,
+    "name": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 343,
+    "name": "Find whether it is possible to finish all tasks or not from given dependencies",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 344,
+    "name": "Find the no. of Isalnds",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 345,
+    "name": "Given a sorted Dictionary of an Alien Language, find order of characters",
+    "topic": "Graph",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 346,
+    "name": "Implement Kruksal'sAlgorithm",
+    "topic": "Graph",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 347,
+    "name": "Implement Prim's Algorithm",
+    "topic": "Graph",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 348,
+    "name": "Total no. of Spanning tree in a graph",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 349,
+    "name": "Implement Bellman Ford Algorithm",
+    "topic": "Graph",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 350,
+    "name": "Implement Floyd warshallAlgorithm",
+    "topic": "Graph",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 351,
+    "name": "Travelling Salesman Problem",
+    "topic": "Graph",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 352,
+    "name": "Graph ColouringProblem",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 353,
+    "name": "Snake and Ladders Problem",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 354,
+    "name": "Find bridge in a graph",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 355,
+    "name": "Count Strongly connected Components(Kosaraju Algo)",
+    "topic": "Graph",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 356,
+    "name": "Check whether a graph is Bipartite or Not",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 357,
+    "name": "Detect Negative cycle in a graph",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 358,
+    "name": "Longest path in a Directed Acyclic Graph",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 359,
+    "name": "Journey to the Moon",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 360,
+    "name": "Cheapest Flights Within K Stops",
+    "topic": "Graph",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 361,
+    "name": "Oliver and the Game",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 362,
+    "name": "Water Jug problem using BFS",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 363,
+    "name": "Water Jug problem using BFS",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 364,
+    "name": "Find if there is a path of more thank length from a source",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 365,
+    "name": "M-ColouringProblem",
+    "topic": "Graph",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 366,
+    "name": "Minimum edges to reverse o make path from source to destination",
+    "topic": "Graph",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 367,
+    "name": "Paths to travel each nodes using each edge(Seven Bridges)",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 368,
+    "name": "Vertex Cover Problem",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 369,
+    "name": "Chinese Postman or Route Inspection",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 370,
+    "name": "Number of Triangles in a Directed and Undirected Graph",
+    "topic": "Graph",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 371,
+    "name": "Minimise the cashflow among a given set of friends who have borrowed money from each other",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 372,
+    "name": "Two Clique Problem",
+    "topic": "Graph",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 373,
+    "name": "Construct a trie from scratch",
+    "topic": "Trie",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 374,
+    "name": "Find shortest unique prefix for every word in a given list",
+    "topic": "Trie",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 375,
+    "name": "Word Break Problem | (Trie solution)",
+    "topic": "Trie",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 376,
+    "name": "Given a sequence of words, print all anagrams together",
+    "topic": "Trie",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 377,
+    "name": "Implement a Phone Directory",
+    "topic": "Trie",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 378,
+    "name": "Print unique rows in a given boolean matrix",
+    "topic": "Trie",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 379,
+    "name": "Coin ChangeProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 380,
+    "name": "Knapsack Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 381,
+    "name": "Binomial CoefficientProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 382,
+    "name": "Permutation CoefficientProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 383,
+    "name": "Program for nth Catalan Number",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 384,
+    "name": "Matrix Chain Multiplication",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 385,
+    "name": "Edit Distance",
+    "topic": "Dynamic Programming",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 386,
+    "name": "Subset Sum Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 387,
+    "name": "Friends Pairing Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 388,
+    "name": "Gold Mine Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 389,
+    "name": "Assembly Line SchedulingProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 390,
+    "name": "Painting the Fenceproblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 391,
+    "name": "Maximize The Cut Segments",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 392,
+    "name": "Longest Common Subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 393,
+    "name": "Longest Repeated Subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 394,
+    "name": "Longest Increasing Subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 395,
+    "name": "Space Optimized Solution of LCS",
+    "topic": "Dynamic Programming",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 396,
+    "name": "LCS (Longest Common Subsequence) of three strings",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 397,
+    "name": "Maximum Sum Increasing Subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 398,
+    "name": "Count all subsequences having product less than K",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 399,
+    "name": "Longest subsequence such that difference between adjacent is one",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 400,
+    "name": "Maximum subsequence sum such that no three are consecutive",
+    "topic": "Dynamic Programming",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 401,
+    "name": "Egg Dropping Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 402,
+    "name": "Maximum Length Chain of Pairs",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 403,
+    "name": "Maximum size square sub-matrix with all 1s",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 404,
+    "name": "Maximum sum of pairs with specific difference",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 405,
+    "name": "Min Cost PathProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 406,
+    "name": "Maximum difference of zeros and ones in binary string",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 407,
+    "name": "Minimum number of jumps to reach end",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 408,
+    "name": "Minimum cost to fill given weight in a bag",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 409,
+    "name": "Minimum removals from array to make max -min <= K",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 410,
+    "name": "Longest Common Substring",
+    "topic": "Dynamic Programming",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 411,
+    "name": "Count number of ways to reacha given score in a game",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 412,
+    "name": "Count Balanced Binary Trees of Height h",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 413,
+    "name": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 414,
+    "name": "Smallest sum contiguous subarray",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 415,
+    "name": "Unbounded Knapsack (Repetition of items allowed)",
+    "topic": "Dynamic Programming",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 416,
+    "name": "Word Break Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 417,
+    "name": "Largest Independent Set Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 418,
+    "name": "Partition problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 419,
+    "name": "Longest Palindromic Subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 420,
+    "name": "Count All Palindromic Subsequence in a given String",
+    "topic": "Dynamic Programming",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 421,
+    "name": "Longest Palindromic Substring",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 422,
+    "name": "Longest alternating subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 423,
+    "name": "Weighted Job Scheduling",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 424,
+    "name": "Coin game winner where every player has three choices",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 425,
+    "name": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 426,
+    "name": "Maximum profit by buying and selling a share at most twice [ IMP ]",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 427,
+    "name": "Optimal Strategy for a Game",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 428,
+    "name": "Optimal Binary Search Tree",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 429,
+    "name": "Palindrome PartitioningProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 430,
+    "name": "Word Wrap Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 431,
+    "name": "Mobile Numeric Keypad Problem [ IMP ]",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 432,
+    "name": "Boolean Parenthesization Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 433,
+    "name": "Largest rectangular sub-matrix whose sum is 0",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 434,
+    "name": "Largest area rectangular sub-matrix with equal number of 1's and 0's [ IMP ]",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 435,
+    "name": "Maximum sum rectangle in a 2D matrix",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 436,
+    "name": "Maximum profit by buying and selling a share at most k times",
+    "topic": "Dynamic Programming",
+    "difficulty": "hard",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 437,
+    "name": "Find if a string is interleaved of two other strings",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 438,
+    "name": "Maximum Length of Pair Chain",
+    "topic": "Dynamic Programming",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 439,
+    "name": "Count set bits in an integer",
+    "topic": "Bit Manipulation",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 440,
+    "name": "Find the two non-repeating elements in an array of repeating elements",
+    "topic": "Bit Manipulation",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 441,
+    "name": "Count number of bits to be flipped to convert A to B",
+    "topic": "Bit Manipulation",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 442,
+    "name": "Count total set bits in all numbers from 1 to n",
+    "topic": "Bit Manipulation",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 443,
+    "name": "Program to find whether a no is power of two",
+    "topic": "Bit Manipulation",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 444,
+    "name": "Find position of the only set bit",
+    "topic": "Bit Manipulation",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 445,
+    "name": "Copy set bits in a range",
+    "topic": "Bit Manipulation",
+    "difficulty": "easy",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 446,
+    "name": "Divide two integers without using multiplication, division and mod operator",
+    "topic": "Bit Manipulation",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 447,
+    "name": "Calculate square of a number without using *, / and pow()",
+    "topic": "Bit Manipulation",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  },
+  {
+    "sheetNumber": 448,
+    "name": "Power Set",
+    "topic": "Bit Manipulation",
+    "difficulty": "medium",
+    "status": "not-started",
+    "solvedAt": null
+  }
+]
