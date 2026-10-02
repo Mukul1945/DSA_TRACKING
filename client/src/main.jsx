@@ -392,7 +392,7 @@ function ProblemList({ problems, meta, filters, setFilters, updateProblem }) {
                   />
                 </td>
 
-                <td className="practice-links">
+                {/* <td className="practice-links">
                   {problem.platforms?.leetcode && (
                     <a
                       href={problem.platforms.leetcode}
@@ -415,6 +415,32 @@ function ProblemList({ problems, meta, filters, setFilters, updateProblem }) {
 
                   {!problem.platforms?.leetcode &&
                     !problem.platforms?.geeksforgeeks && <span>No links</span>}
+                </td> */}
+
+                <td className="practice-links">
+                  <a
+                    href={
+                      problem.platforms?.leetcode?.trim() ||
+                      `https://leetcode.com/problemset/?search=${encodeURIComponent(problem.name)}`
+                    }
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title="Open on LeetCode"
+                  >
+                    LeetCode <ExternalLink size={14} />
+                  </a>
+
+                  <a
+                    href={
+                      problem.platforms?.geeksforgeeks?.trim() ||
+                      `https://www.geeksforgeeks.org/?s=${encodeURIComponent(problem.name)}`
+                    }
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title="Open on GeeksforGeeks"
+                  >
+                    GeeksforGeeks <ExternalLink size={14} />
+                  </a>
                 </td>
               </tr>
             ))}

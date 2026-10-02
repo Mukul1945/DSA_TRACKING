@@ -401,11 +401,22 @@ tbody tr:hover {
   }
 }
 
+/* Keep the practice links readable */
+.table-wrap table {
+  min-width: 1000px;
+}
+
+.table-wrap th:last-child,
+.table-wrap td:last-child {
+  min-width: 190px;
+  white-space: nowrap;
+}
+
 .practice-links {
   display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
   align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
 }
 
 .practice-links a {
@@ -417,8 +428,7 @@ tbody tr:hover {
   border-radius: 6px;
   color: #ff7b30;
   text-decoration: none;
-  font-size: 12px;
-  font-weight: 600;
+  white-space: nowrap;
 }
 
 .practice-links a:hover {
