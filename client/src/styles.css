@@ -400,3 +400,28 @@ tbody tr:hover {
     font-size: 1.55rem;
   }
 }
+
+.practice-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.practice-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 10px;
+  border: 1px solid #ff7b30;
+  border-radius: 6px;
+  color: #ff7b30;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.practice-links a:hover {
+  background: #ff7b30;
+  color: white;
+}

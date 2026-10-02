@@ -17,6 +17,18 @@ const problemSchema = new mongoose.Schema(
       default: 'not-started',
       index: true
     },
+    platforms: {
+      leetcode: {
+        type: String,
+        trim: true,
+        default: ''
+      },
+      geeksforgeeks: {
+        type: String,
+        trim: true,
+        default: ''
+      }
+    },
     solvedAt: { type: Date, default: null }
   },
   { timestamps: true }

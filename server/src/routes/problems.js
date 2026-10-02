@@ -38,30 +38,161 @@ router.get('/meta', async (_req, res, next) => {
   }
 });
 
+// router.patch('/:id', async (req, res, next) => {
+//   try {
+//     const allowedStatuses = ['not-started', 'in-progress', 'solved'];
+//     const update = {};
+
+//     if (req.body.status) {
+//       if (!allowedStatuses.includes(req.body.status)) {
+//         return res.status(400).json({ message: 'Invalid status' });
+//       }
+
+//       update.status = req.body.status;
+//       update.solvedAt = req.body.status === 'solved' ? new Date() : null;
+//     }
+
+//     if (req.body.difficulty) {
+//       update.difficulty = req.body.difficulty;
+//     }
+
+//     const problem = await Problem.findByIdAndUpdate(req.params.id, update, {
+//       new: true,
+//       runValidators: true
+//     });
+
+//     if (!problem) return res.status(404).json({ message: 'Problem not found' });
+
+//     res.json(problem);
+//   } catch (error) {
+//     next(error);
+//   }
+// });
+
+
 router.patch('/:id', async (req, res, next) => {
   try {
-    const allowedStatuses = ['not-started', 'in-progress', 'solved'];
+    const allowedStatuses = [
+      'not-started',
+      'in-progress',
+      'solved'
+    ];
+
     const update = {};
 
-    if (req.body.status) {
+    if (req.body.status !== undefined) {
       if (!allowedStatuses.includes(req.body.status)) {
-        return res.status(400).json({ message: 'Invalid status' });
+        return res.status(400).json({
+          message: 'Invalid status'
+        });
       }
 
       update.status = req.body.status;
-      update.solvedAt = req.body.status === 'solved' ? new Date() : null;
+      update.solvedAt =
+        req.body.status === 'solved' ? new Date() : null;
     }
 
-    if (req.body.difficulty) {
+    if (req.body.difficulty !== undefined) {
+      if (!['easy', 'medium', 'hard'].includes(req.body.difficulty)) {
+        return res.status(400).json({
+          message: 'Invalid difficulty'
+        });
+      }
+
       update.difficulty = req.body.difficulty;
     }
 
-    const problem = await Problem.findByIdAndUpdate(req.params.id, update, {
-      new: true,
-      runValidators: true
-    });
+    // Update only explicitly supported platform URLs.
+    if (req.body.platforms !== undefined) {
+      const platforms = req.body.platforms;
 
-    if (!problem) return res.status(404).json({ message: 'Problem not found' });
+      if (
+        !platforms ||
+        typeof platforms !== 'object' ||
+        Array.isArray(platforms)
+      ) {
+        return res.status(400).json({
+          message: 'Invalid platforms object'
+        });
+      }
+
+      const allowedPlatforms = {
+        leetcode: ['leetcode.com'],
+        geeksforgeeks: ['geeksforgeeks.org']
+      };
+
+      for (const [platform, value] of Object.entries(platforms)) {
+        if (!Object.hasOwn(allowedPlatforms, platform)) {
+          return res.status(400).json({
+            message: `Unsupported platform: ${platform}`
+          });
+        }
+
+        if (typeof value !== 'string' || value.length > 2048) {
+          return res.status(400).json({
+            message: `Invalid ${platform} URL`
+          });
+        }
+
+        if (value.trim() === '') {
+          update[`platforms.${platform}`] = '';
+          continue;
+        }
+
+        let parsedUrl;
+
+        try {
+          parsedUrl = new URL(value.trim());
+        } catch {
+          return res.status(400).json({
+            message: `Invalid ${platform} URL`
+          });
+        }
+
+        const hostname = parsedUrl.hostname.toLowerCase();
+        const allowedDomains = allowedPlatforms[platform];
+
+        const isAllowedDomain = allowedDomains.some(
+          (domain) =>
+            hostname === domain ||
+            hostname.endsWith(`.${domain}`)
+        );
+
+        if (
+          parsedUrl.protocol !== 'https:' ||
+          !isAllowedDomain ||
+          parsedUrl.username ||
+          parsedUrl.password
+        ) {
+          return res.status(400).json({
+            message: `Only valid HTTPS ${platform} URLs are allowed`
+          });
+        }
+
+        update[`platforms.${platform}`] = parsedUrl.href;
+      }
+    }
+
+    if (Object.keys(update).length === 0) {
+      return res.status(400).json({
+        message: 'No valid fields to update'
+      });
+    }
+
+    const problem = await Problem.findByIdAndUpdate(
+      req.params.id,
+      { $set: update },
+      {
+        new: true,
+        runValidators: true
+      }
+    );
+
+    if (!problem) {
+      return res.status(404).json({
+        message: 'Problem not found'
+      });
+    }
 
     res.json(problem);
   } catch (error) {
